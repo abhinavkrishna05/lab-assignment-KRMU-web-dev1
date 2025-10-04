@@ -1,1 +1,1 @@
-
+This project is about creating a one-page personal portfolio website using semantic HTML, including sections like About, Projects, Skills, and Contact with a functional form and internal navigation. Through this, I learn how to structure a webpage properly, use images with alt text for accessibility, organize information using lists and tables, and build forms with validation. It also helps us practice writing clean, semantic, and well-indented code that can be easily styled with CSS later.
