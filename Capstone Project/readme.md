@@ -1,1 +1,1 @@
-
+This project is a responsive, modern course website built using HTML and CSS only. It includes a hero section, course listings, testimonials, a contact form, and a fully designed footer. The UI uses CSS Grid, Flexbox, animations, and system-based dark mode without any JavaScript. The layout is mobile-friendly, clean, and easy to customize. All colors use fixed hex values, and pixel units are used throughout to maintain consistent styling.
